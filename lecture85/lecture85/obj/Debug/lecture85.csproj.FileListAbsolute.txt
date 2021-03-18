@@ -1,0 +1,15 @@
+C:\Users\Fallen\source\repos\lecture85\lecture85\bin\Debug\lecture85.exe.config
+C:\Users\Fallen\source\repos\lecture85\lecture85\bin\Debug\lecture85.exe
+C:\Users\Fallen\source\repos\lecture85\lecture85\bin\Debug\lecture85.pdb
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.csprojAssemblyReference.cache
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\MainWindow.g.cs
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\App.g.cs
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85_MarkupCompile.cache
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85_MarkupCompile.lref
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\MainWindow.baml
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.g.resources
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.Properties.Resources.resources
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.csproj.GenerateResource.cache
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.csproj.CoreCompileInputs.cache
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.exe
+C:\Users\Fallen\source\repos\lecture85\lecture85\obj\Debug\lecture85.pdb
